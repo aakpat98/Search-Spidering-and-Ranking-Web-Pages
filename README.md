@@ -1,3 +1,5 @@
+This is a guided project from a SQL Specialization by Dr. Charles Severance from the University of Michigan.
+
 # Web Crawler and Page Ranking System
 
 This project implements a simple web crawler and page ranking system using Python and SQLite. It emulates basic functions of a search engine by crawling web pages, recording links between them, calculating page ranks, and visualizing the link structure.
